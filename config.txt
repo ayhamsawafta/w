@@ -1,0 +1,7 @@
+token= 
+owner= 
+prefix= 
+game= Tybe 
+stayinchannel=true 
+songinstatus=true
+token=
