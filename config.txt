@@ -1,7 +1,6 @@
-token= 
-owner= 
-prefix= 
-game= Tybe 
+token= NTEyNTI4NTMzMTEzOTI5NzI4.Ds6zBg.0hzDTxTjT5ZDdvS5B0AMPB5alFk
+owner= 470320463021604864
+prefix= -4
+game= Tybe -4help
 stayinchannel=true 
 songinstatus=true
-token=
